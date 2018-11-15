@@ -1,0 +1,1 @@
+逆向生成models实体类，sqlacodegen mysql://root:root@127.0.0.1:3306/mydb > models.py
